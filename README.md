@@ -114,3 +114,4 @@ Conclusion
 As AI agents become standard, behavior will matter more than raw intelligence.
 
 This checklist defines a minimal, human-centered foundation for safe agent operation — independent of model size, vendor, or interface.
+versions/v1.0.md
