@@ -1,3 +1,5 @@
+> A minimal, human-centered standard for safe and predictable AI agent behavior.
+
 AI Agent Behavior Checklist 🍁
 
 Public Standard v1.
