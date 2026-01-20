@@ -1,6 +1,6 @@
 AI Agent Behavior Checklist 🍁
 
-Public Standard v1.0
+Public Standard v1.
 
 Author: DV09
 Status: Public / Open
